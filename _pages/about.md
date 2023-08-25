@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome here! My name is Félix (Hua Pang in Chinese) (Hwa Pong in Cantonese).  
-This is my personal website where you can know about my basic information.  
+Welcome here! My name is Félix  
+(Hua Pang in Chinese) (Hwa Pong in Cantonese).  
+This is my personal website, where you can know about my basic information.  
 &nbsp;
 
 Education
@@ -26,9 +27,6 @@ Education
 Research
 ======
 I researched in **Expansion Planning of Distribution Networks**, following Prof. Libao Shi.  
-  
-&nbsp;
-
 The research is detailed with:  
 * Integration of **Renewable Energy Sources** (RES)
 * Analysis of multi-stakeholder behaviours based on **Game Theory**
@@ -38,7 +36,6 @@ The research is detailed with:
 
 Working Experience
 ======
-
 Shenzhen Xiaomi Communication Technology Co., Ltd., 2022.08~2023.08
 ------
 * Software Engineer of **Mobile/Computer System Infrastructure**
