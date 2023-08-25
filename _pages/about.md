@@ -26,6 +26,7 @@ Education
 Research
 ======
 I researched in **Expansion Planning of Distribution Networks**, following Prof. Libao Shi.  
+  
 &nbsp;
 
 The research is detailed with:  
