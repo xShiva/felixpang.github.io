@@ -10,8 +10,8 @@ redirect_from:
 
 Welcome here! My name is Félix (Hua Pang in Chinese) (Hwa Pong in Cantonese).  
 This is my personal website where you can know about my basic information.  
-  
 &nbsp;
+
 Education
 ======
 * B.Eng, Electrical Engineering & Automation
@@ -20,8 +20,8 @@ Education
 * M.Eng, Electrical Engineering
   * Department of Electrical Engineering
   * Tsinghua University, Beijing, China
-  
 &nbsp;
+
 Research
 ======
 I researched in **Expansion Planning of Distribution Networks**, following Prof. Libao Shi.  
