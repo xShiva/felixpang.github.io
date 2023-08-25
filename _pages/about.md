@@ -27,6 +27,7 @@ Research
 ======
 I researched in **Expansion Planning of Distribution Networks**, following Prof. Libao Shi.  
 &nbsp;
+
 The research is detailed with:  
 * Integration of **Renewable Energy Sources** (RES)
 * Analysis of multi-stakeholder behaviours based on **Game Theory**
@@ -39,8 +40,6 @@ Working Experience
 
 Shenzhen Xiaomi Communication Technology Co., Ltd., 2022.08~2023.08
 ------
-  
-&nbsp;
 * Software Engineer of **Mobile/Computer System Infrastructure**
 * Debugging **Linux-Kernel-related** software issues (system stability)
 * Developing high-performance & low-latency efficiency tools
