@@ -19,24 +19,28 @@ Education
   * Shanghai Jiao Tong University, Shanghai, China
 * M.Eng, Electrical Engineering
   * Department of Electrical Engineering
-  * Tsinghua University, Beijing, China
+  * Tsinghua University, Beijing, China  
+  
 &nbsp;
 
 Research
 ======
 I researched in **Expansion Planning of Distribution Networks**, following Prof. Libao Shi.  
-<br/>
+&nbsp;
 The research is detailed with:  
 * Integration of **Renewable Energy Sources** (RES)
 * Analysis of multi-stakeholder behaviours based on **Game Theory**
-* Utilization of **Computational Intelligence Approches**
-
+* Utilization of **Computational Intelligence Approches**  
+  
+&nbsp;
 
 Working Experience
 ======
 
 Shenzhen Xiaomi Communication Technology Co., Ltd., 2022.08~2023.08
 ------
+  
+&nbsp;
 * Software Engineer of **Mobile/Computer System Infrastructure**
 * Debugging **Linux-Kernel-related** software issues (system stability)
 * Developing high-performance & low-latency efficiency tools
