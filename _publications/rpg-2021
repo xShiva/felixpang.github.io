@@ -1,0 +1,15 @@
+---
+title: "Active distribution network expansion planning considering demand response and NON-cooperative multi-stakeholder game"
+collection: publications
+permalink: /publication/rpg-2021
+excerpt: 'The active distribution network (ADN) paradigm has changed the planning and operating scheme of traditional distribution systems. With the development of distributed generation (DG), the power generation business is getting decentralized, and the DG operators (DGOs) and power users are getting more involved in the planning affairs of ADN as independent stakeholders. How to reasonably deploy the network resources according to the needs of different stakeholders whilst satisfying the safe and stable operation of the system is one of the urgent problems to be solved. In this paper, an ADN expansion planning method considering demand response (DR) and non-cooperative game among stakeholders is proposed. Firstly, a DR operator (DRO) model is established, which abstracts the power users as a unified stakeholder; Secondly, a bi-level ADN planning-operating model is established. The upper level model describes the game relation between the distribution network operator (DNO) and the DGOs in the planning layer, and the lower level model describes the game relation between the DNO and the DRO in the operating layer. The genetic algorithm and particle swarm optimization are applied for the solutions of the proposed models. Finally, the case studies are carried out to verify the effectiveness of the proposed model.'
+date: 2021-10-15
+venue: 'IET Renewable Power Generation 2021'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9654052'
+citation: 'Pang, H., & Shi, L. (2021, October). Active distribution network expansion planning considering demand response and NON-cooperative multi-stakeholder game. In The 10th Renewable Power Generation Conference (RPG 2021) (Vol. 2021, pp. 515-522). IET.'
+---
+This paper is about the expansion planning strategies for different stakeholders in ADN paradigms, considering different kinds of gaming behaviours among them.
+
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9654052/)
+
+Recommended citation: Pang, H., & Shi, L. (2021, October). Active distribution network expansion planning considering demand response and NON-cooperative multi-stakeholder game. In The 10th Renewable Power Generation Conference (RPG 2021) (Vol. 2021, pp. 515-522). IET.
