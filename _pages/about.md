@@ -1,4 +1,4 @@
-===
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-===
+---
 
 Welcome here! My name is Félix (Hua Pang in Chinese) (Hwa Pong in Cantonese).
 This is my personal website where you can know about my basic information.
