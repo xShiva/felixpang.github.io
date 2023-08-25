@@ -10,6 +10,7 @@ redirect_from:
 
 Welcome here! My name is Félix (Hua Pang in Chinese) (Hwa Pong in Cantonese).  
 This is my personal website where you can know about my basic information.  
+  
 
 Education
 ======
@@ -19,14 +20,16 @@ Education
 * M.Eng, Electrical Engineering
   * Department of Electrical Engineering
   * Tsinghua University, Beijing, China
+  
 
 Research
 ======
-I researched mainly in **Expansion Planning of Distribution Networks** during my postgraduate stage, following Prof. Libao Shi.  
+I researched in **Expansion Planning of Distribution Networks**, following Prof. Libao Shi.  
 The research is detailed with:  
 * Integration of **Renewable Energy Sources** (RES)
 * Analysis of multi-stakeholder behaviours based on **Game Theory**
 * Utilization of **Computational Intelligence Approches**
+  
 
 Working Experience
 ======
