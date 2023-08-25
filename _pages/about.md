@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome here! My name is Félix (Hua Pang in Chinese) (Hwa Pong in Cantonese).  
 This is my personal website where you can know about my basic information.  
-  
+
 
 Education
 ======
@@ -20,7 +20,7 @@ Education
 * M.Eng, Electrical Engineering
   * Department of Electrical Engineering
   * Tsinghua University, Beijing, China
-  
+
 
 Research
 ======
@@ -29,16 +29,15 @@ The research is detailed with:
 * Integration of **Renewable Energy Sources** (RES)
 * Analysis of multi-stakeholder behaviours based on **Game Theory**
 * Utilization of **Computational Intelligence Approches**
-  
+
 
 Working Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* Shenzhen Xiaomi Communication Technology Co., Ltd., 2022.08~2023.08
+  * Software Engineer of **Mobile/Computer System Infrastructure**
+  * Debugging **Linux-Kernel-related** software issues (system stability)
+  * Developing high-performance & low-latency efficiency tools
+  * **Excellent Fresh Graduate** of Xiaomi Corporation
 
 Site-wide configuration
 ------
