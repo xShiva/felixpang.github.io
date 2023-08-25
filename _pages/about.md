@@ -11,7 +11,7 @@ redirect_from:
 Welcome here! My name is Félix (Hua Pang in Chinese) (Hwa Pong in Cantonese).  
 This is my personal website where you can know about my basic information.  
 
-
+<br/>
 Education
 ======
 * B.Eng, Electrical Engineering & Automation
@@ -21,10 +21,11 @@ Education
   * Department of Electrical Engineering
   * Tsinghua University, Beijing, China
 
-
+<br/>
 Research
 ======
 I researched in **Expansion Planning of Distribution Networks**, following Prof. Libao Shi.  
+<br/>
 The research is detailed with:  
 * Integration of **Renewable Energy Sources** (RES)
 * Analysis of multi-stakeholder behaviours based on **Game Theory**
@@ -33,11 +34,13 @@ The research is detailed with:
 
 Working Experience
 ======
-* Shenzhen Xiaomi Communication Technology Co., Ltd., 2022.08~2023.08
-  * Software Engineer of **Mobile/Computer System Infrastructure**
-  * Debugging **Linux-Kernel-related** software issues (system stability)
-  * Developing high-performance & low-latency efficiency tools
-  * **Excellent Fresh Graduate** of Xiaomi Corporation
+
+Shenzhen Xiaomi Communication Technology Co., Ltd., 2022.08~2023.08
+------
+* Software Engineer of **Mobile/Computer System Infrastructure**
+* Debugging **Linux-Kernel-related** software issues (system stability)
+* Developing high-performance & low-latency efficiency tools
+* **Excellent Fresh Graduate** of Xiaomi Corporation
 
 Site-wide configuration
 ------
