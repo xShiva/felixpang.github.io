@@ -37,7 +37,6 @@ The research is detailed with:
 Working Experience
 ======
 Shenzhen Xiaomi Communication Technology Co., Ltd., 2022.08~2023.08
-------
 * Software Engineer of **Mobile/Computer System Infrastructure**
 * Debugging **Linux-Kernel-related** software issues (system stability)
 * Developing high-performance & low-latency efficiency tools
