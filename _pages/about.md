@@ -60,6 +60,7 @@ Miscellaneous
 **Awards:**
 * Scholarship of Tsinghua Shenzhen International Graduate School, 2021
 * Excellent Graduate of Xiaomi Corporation, 2022
+&nbsp;
 **Skills:**
 * Familiar with most mainstreaming programming languages (C/C++, python, JavaScript)
 * Architecture designing of application software
