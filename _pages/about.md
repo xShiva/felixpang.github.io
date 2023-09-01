@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome here! My name is Félix.  
-(Hua Pang in Chinese) (Hwa Pong in Cantonese)   
+Welcome here! My name is Hua Pang (in Mandarin) (Hwa Pong in Cantonese)   
+&nbsp;
 This is my personal website, where you can know about my basic information.  
 &nbsp;
 
