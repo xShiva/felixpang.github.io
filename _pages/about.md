@@ -29,17 +29,38 @@ Education
 Research
 ======
 I researched in **Expansion Planning of Distribution Networks**, following Prof. Libao Shi.  
-The research is detailed with:  
+The research was detailed with:  
 * Integration of **Renewable Energy Sources** (RES)
 * Analysis of multi-stakeholder behaviours based on **Game Theory**
 * Utilization of **Computational Intelligence Approches**  
   
 &nbsp;
 
-Working Experience
+Research Interests
+======
+* Distribution network planning integrating renewable energy source
+* Application of quantitative/statistical approaches in power spot/futures markets
+* Research & developing of high-performance power system calculation platforms
+
+  
+&nbsp;
+
+Job Experience
 ======
 Shenzhen Xiaomi Communication Technology Co., Ltd., 2022.08~2023.08
 * Software Engineer of **Mobile/Computer System Infrastructure**
 * Debugging **Linux-Kernel-related** software issues (system stability)
 * Developing high-performance & low-latency efficiency tools
 * **Excellent Fresh Graduate** of Xiaomi Corporation
+
+&nbsp;
+
+Miscellaneous
+======
+**Awards:**
+* Scholarship of Tsinghua Shenzhen International Graduate School, 2021
+* Excellent Graduate of Xiaomi Corporation, 2022
+**Skills:**
+* Familiar with most mainstreaming programming languages (C/C++, python, JavaScript)
+* Architecture designing of application software
+* Proficient publication-reviewing ability, mathematical-modeling skill and paper-drafting capability
