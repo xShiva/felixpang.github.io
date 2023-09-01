@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 Welcome here! My name is Hua Pang (in Mandarin) (Hwa Pong in Cantonese)   
-
-&nbsp;
-
 This is my personal website, where you can know about my basic information.  
 &nbsp;
 
