@@ -25,11 +25,17 @@ Education
 
 Research
 ======
-I researched in **Expansion Planning of Distribution Networks**, following Prof. Libao Shi.  
+I researched in **Expansion Planning of Distribution Networks**, following Prof. Libao Shi from 2020.10 to 2022.06.  
 The research was detailed with:  
 * Integration of **Renewable Energy Sources** (RES)
 * Analysis of multi-stakeholder behaviours based on **Game Theory**
-* Utilization of **Computational Intelligence Approches**  
+* Utilization of **Computational Intelligence Approches**
+
+Besides, I've also been researching in **Electricity Prices Predicting** since 2023.09.
+The research fields include:
+* Prediction process modeling incorporating **Machine Learning**
+* Price features modeling using **Global Sensitivity Analysis** (GSA)
+* Spread prediction
   
 &nbsp;
 
