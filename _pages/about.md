@@ -31,7 +31,7 @@ The research was detailed with:
 * Analysis of multi-stakeholder behaviours based on **Game Theory**
 * Utilization of **Computational Intelligence Approches**
 
-Besides, I've also been researching in **Electricity Prices Predicting** since 2023.09.
+Besides, I've also been researching on **Electricity Prices Predicting** since 2023.09.
 The research fields include:
 * Prediction process modeling incorporating **Machine Learning**
 * Price features modeling using **Global Sensitivity Analysis** (GSA)
